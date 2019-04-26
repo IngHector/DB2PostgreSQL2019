@@ -1,0 +1,6 @@
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\OFhec\Documents\GitHub\DB2PostgreSQL2019\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
